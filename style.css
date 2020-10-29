@@ -349,7 +349,7 @@
   justify-content: space-around;
 }
 #event-register{
-  width:100px;
+  width:200px;
 }
 .event-box-container{
   margin:20px;
@@ -358,6 +358,9 @@
   box-shadow: 2px 5px 10px;
 }
 #register-button{
+  font-size:25px;
+  padding:4px;
+  margin:3px;
   border-radius:4px;
   background-color:orange;
    
