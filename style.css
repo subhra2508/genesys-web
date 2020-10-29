@@ -366,9 +366,11 @@
   display:none;
 }
 /*----------------contact us-------------------*/
-.contact-page{
+.contact-page ul li{
   padding:2px;
   margin:10px;
+  text-decoration:none;
+  list-style: none;
 }
 
 
